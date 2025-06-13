@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "ag-grid-community": "^33.3.2",
+    "ag-grid-react": "^33.3.2",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.6",
+    "chroma-js": "^3.1.2",
+    "inline-style-prefixer": "^5.1.0",
+    "next": "^15.3.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.10",
+    "react-data-table-component": "^7.7.0",
+    "react-dom": "^18.3.1",
+    "react-dropzone": "^14.3.8",
+    "react-icons": "^5.5.0",
+    "react-tabulator": "^0.21.0",
+    "react-toastify": "^11.0.5",
+    "reactflow": "^11.11.4",
+    "styled-components": "^6.1.18",
+    "tabulator-tables": "^6.3.1"
+  }
+}
